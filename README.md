@@ -2,7 +2,7 @@
 Soy Christian Criado, Licenciado en Tecnología Informática.
 Profesional Argentino con más de 15 años de experiencia en el ámbito de la tecnología y el desarrollo de software.
 A lo largo de mi carrera he trabajado en empresas de consultoría y servicios internacionales, participando activamente en proyectos de mantenimiento, migración y soporte de aplicaciones críticas. Mi experiencia se centra especialmente en entornos Visual Basic 6 (VB6), C#, .NET, SQL Server y Sybase.
-Me formé inicialmente como Técnico en Electrónica y luego como Técnico en Comunicación Multimedial, complementando mi perfil con certificaciones en Microsoft Certified Professional Developer (MCPD) y cursos avanzados en VB6, VB.NET, Java y bases de datos.
+Me formé inicialmente como Técnico en Electrónica y luego como Técnico en Comunicación Multimedial, complementando mi perfil con certificaciones en Microsoft Certified Professional Developer (MCPD) y cursos avanzados en VB6, C# y Bases de Datos.
 <br>
 
 
